@@ -1,0 +1,13 @@
+frontend npm install
+npm install
+axios
+bootstrap
+jwt-decode
+react-router-dom
+reactstrap
+
+
+backend npm install
+npm install
+npm i -g nodemon
+
